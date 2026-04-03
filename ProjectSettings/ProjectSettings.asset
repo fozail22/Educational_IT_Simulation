@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
+<<<<<<< HEAD
   productGUID: 447a756369fbb274faadb777d9a6c474
+=======
+  productGUID: 0560423b464bd9840b96464b2e2afe62
+>>>>>>> 635410f1785dc4c527c6b31e5935e42942d90112
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -920,11 +924,19 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
+<<<<<<< HEAD
   cloudProjectId: 693626f6-03bd-46d0-9a0f-8a3117ce5041
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Educational_IT_Simulation
   organizationId: np03cy4a250070
+=======
+  cloudProjectId: 726ae0c0-1bcf-4251-8b22-a0dada71bc36
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Educational_IT_Simulation
+  organizationId: np03cy4a250026
+>>>>>>> 635410f1785dc4c527c6b31e5935e42942d90112
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
